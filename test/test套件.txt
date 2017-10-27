@@ -4,6 +4,6 @@ Library           Selenium2Library
 *** Test Cases ***
 baidu_search
     Open Browser    http://www.baidu.com    firefox
-    Input Text    id=kw    测试
+    Input Text    id=kw    demo
     Click Button    id=su
     sleep    2
