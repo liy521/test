@@ -3,7 +3,7 @@ Library           Selenium2Library
 
 *** Test Cases ***
 baidu_search
-    Open Browser    http://www.baidu.com    firefox
+    Open Browser    http://www.baidu.com    IE
     Input Text    id=kw   测试
     Click Button    id=su
     sleep   3
