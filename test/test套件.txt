@@ -6,5 +6,5 @@ baidu_search
     Open Browser    http://www.baidu.com    firefox
     Input Text    id=kw   测试
     Click Button    id=su
-    sleep   2
+    sleep   3
     Close Browser
