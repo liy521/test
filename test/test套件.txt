@@ -7,3 +7,4 @@ baidu_search
     Input Text    id=kw    demo
     Click Button    id=su
     sleep   3
+    close browser
