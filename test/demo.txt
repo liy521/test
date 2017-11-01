@@ -1,5 +1,0 @@
-*** Settings ***
-Library           OperatingSystem
-Library           ../../workspace/QuickStartGuide-master/lib/LoginLibrary.py
-
-*** Test Cases ***
